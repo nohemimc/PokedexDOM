@@ -1,0 +1,8 @@
+.btn-regresar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn_reg{
+    margin-right: 6rem;
+}
